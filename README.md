@@ -153,3 +153,6 @@ tv_weight: (Optional) Weight for Total Variation Loss. Increase to reduce noise 
 epochs and steps_per_epoch: Determines the total number of optimization iterations. More iterations can lead to better results but require more time.
 
 content_layers and style_layers: The specific VGG19 layers used to extract content and style features. Experimenting with these can yield different results.
+
+OUTPUT:
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/824e547d-8aaa-433a-a34c-6e349f537a80" />
